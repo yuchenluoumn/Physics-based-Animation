@@ -1,1 +1,11 @@
 # Physics-based-Animation
+Collision Detection and Response: https://www.youtube.com/watch?v=pynXEwiVtCE&feature=youtu.be
+Normal Impulse: https://www.youtube.com/watch?v=nATLbs-qJfc&feature=youtu.be
+Frictional Impulse: https://www.youtube.com/watch?v=XzIe_xDizE4&feature=youtu.be
+Stacking: https://www.youtube.com/watch?v=O9nHZwuc8ww&feature=youtu.be
+Card House With NO Friction: https://www.youtube.com/watch?v=O9nHZwuc8ww&feature=youtu.be
+Card House With Friction: https://www.youtube.com/watch?v=HOjFxZxyDPM&feature=youtu.be
+
+
+
+
